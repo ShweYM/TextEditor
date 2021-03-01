@@ -1,0 +1,15 @@
+body{
+    background-color: gainsboro;
+}
+.header{
+    color:rgb(172, 41, 172);
+    font-weight: 900;
+    font-size: 3.5em;
+}
+#content {
+    padding: 10px;
+    font-size: 24px;
+    background-color: white;
+    height: 50%;
+    width: auto;
+  }
